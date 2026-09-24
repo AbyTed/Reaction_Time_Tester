@@ -10,7 +10,7 @@
 
 - This program uses **USER1** as the main button.
 - Load the program onto the FPGA, then press the **RESET** button to start.
-- Then, **CLICK**!^! the **USER1** button as fast as possible to record your reaction time.
+- Then, **CLICK**!! the **USER1** button as fast as possible to record your reaction time.
 
 | **Response Time** | **LED Output** |
 |:-----------------:|:---------------|
